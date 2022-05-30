@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... robotics
 - 🌱 I’m currently learning ... software architecture
 - 💞️ I’m looking to collaborate on ... autonomous systems
-- 📫 How to reach me ... linkedin.com/in/pranjal-raul-0090a820b
+- 📫 How to reach me ... 
 - 
 
 <!---
