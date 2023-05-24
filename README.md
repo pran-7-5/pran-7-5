@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkr-7
+- 👋 Hi, I’m @pran-7-5
 - 👀 I’m interested in ... robotics
 - 🌱 I’m currently learning ... software architecture
 - 💞️ I’m looking to collaborate on ... autonomous systems
